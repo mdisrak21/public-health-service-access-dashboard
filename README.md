@@ -144,3 +144,21 @@ Priority Location Identification
 Interactive Dashboard
           ↓
 Reports & CSV Export
+
+```
+
+## ⚙️ Installation & Usage
+
+```bash
+git clone https://github.com/mdisrak21/public-health-service-access-dashboard.git
+cd public-health-service-access-dashboard
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## 🔮 Future Improvements
+
+- Add facility mapping.
+- Add service utilization trends.
+- Add geographic accessibility analysis.
+- Add health indicator comparisons.
